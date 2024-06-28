@@ -1,0 +1,43 @@
+* {
+   margin:0;
+   padding: 0;
+
+}
+
+.heading{
+  margin-top: 150px;
+  text-align: center;
+  color: black;
+  font-size: 40px;
+  margin-bottom: 50px;
+}
+p{
+  display: inline-block;
+  text-align: left;
+  margin-left: 5px;
+}
+.quote{
+  text-align: left;
+  width: 75%;
+  font-family: sans-serif;
+  font-size: 50px;
+  margin-right: 20px;
+  
+}
+.bio
+{
+  padding: 150px;
+   margin: auto;
+  width: 60%;
+  background-color: #ADD8E6;
+  
+  text-align: centers;
+}
+.bio img{
+  margin-top: -160px;
+  margin-left: 51px;
+  text-align: right;
+  display: inline-block;
+  float: right;
+}
+
